@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Modera — Make more of what you own.</title>
+  <desc id="desc">Product and engineering by Gagan Gupta. iPhone app and Muse connector.</desc>
+  <rect width="1200" height="340" rx="18" fill="#203e32"/>
+  <path d="M1000 -40C850 115 1130 122 1000 380M1110 -40C960 115 1240 122 1110 380M890 -40C740 115 1020 122 890 380" fill="none" stroke="#446453" stroke-width="1.5"/>
+  <circle cx="1075" cy="70" r="120" fill="#365746" opacity=".45"/>
+  <text x="60" y="55" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#c9d4c4">PRODUCT &amp; ENGINEERING / GAGAN GUPTA</text>
+  <text x="56" y="159" font-family="Georgia, 'Times New Roman', serif" font-size="94" letter-spacing="-3" fill="#f7f3e9">Modera.</text>
+  <text x="60" y="216" font-family="Arial, Helvetica, sans-serif" font-size="29" fill="#f7f3e9">Make more of what you own.</text>
+  <path d="M60 260H1140" stroke="#68806d" stroke-width="1"/>
+  <text x="60" y="299" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1" fill="#e1e7da">01  /  iPHONE APP</text>
+  <text x="310" y="299" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1" fill="#e1e7da">02  /  MUSE CONNECTOR</text>
+  <text x="1140" y="299" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#c9d4c4">Selected work · 2026</text>
+</svg>
